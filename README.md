@@ -6,4 +6,5 @@ Ce projet s’inscrit dans le cadre du 2025 Student Research Case Study Challeng
 --------------
 ## Objectifs
 L’objectif principal de ce projet est d’analyser, à l’aide d’outils actuariels et de données socio-économiques, les risques associés aux barrages en terre et leurs impacts potentiels sur les populations et l’économie du pays fictif de Tarrodan. Plus précisément, cette étude vise à comprendre comment la répartition de la population, des logements et de l’activité économique influence l’exposition aux risques, et à explorer les mécanismes permettant une meilleure mutualisation de ces risques à l’échelle nationale. Le projet cherche également à évaluer, de manière simplifiée, la soutenabilité financière d’un programme national d’assurance, tout en mettant en évidence l’importance des mesures de prévention et de gestion des risques pour réduire les conséquences économiques et sociales d’éventuelles défaillances de barrages.
+
 -------------
