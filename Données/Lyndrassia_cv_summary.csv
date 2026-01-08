@@ -1,0 +1,4 @@
+,status,best_model,mae_cv5,all_models_mae_cv5,n_train,n_pred
+Loss.given.failure...prop..Qm.,nothing_to_predict,,,,,
+Loss.given.failure...liab..Qm.,nothing_to_predict,,,,,
+Loss.given.failure...BI..Qm.,ok,RF,5.447700441240839,"{'Linear': 6.096737537037523, 'RF': 5.447700441240839, 'GB': 5.817358190363693, 'XGB': 5.573532457196036}",3067,4853
