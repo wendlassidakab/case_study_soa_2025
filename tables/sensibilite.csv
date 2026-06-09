@@ -1,0 +1,10 @@
+scenario,prob_ruine_%,fonds_terminal_median_Qm
+Base,0.37,233885.7
+Prime -10%,82.83,-34387.0
+Prime +10%,0.0,508012.5
+"Rendement 1,5%",0.43,204634.5
+"Rendement 4,5%",0.23,282684.9
+Inflation 4%,0.47,263381.6
+Sinistralité +20%,100.0,-268570.6
+Prévention -15% PoF,0.0,613307.3
+Capital initial /2,4.33,215224.0
